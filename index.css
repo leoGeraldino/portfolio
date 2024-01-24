@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: flex-start;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    margin-right: 3px;
+}
+
+li, h2{
+    text-transform: uppercase;
+}
