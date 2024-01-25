@@ -1,13 +1,13 @@
 nav{
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 li{
     list-style-type: none;
     display: inline;
     text-align: center;
-    margin-right: 3px;
+    margin-right: 5px;
 }
 
 li, h2{
