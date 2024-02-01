@@ -13,3 +13,14 @@ li{
 li, h2{
     text-transform: uppercase;
 }
+
+.certificate_figs{
+    border: 1px black solid;
+    border-radius: 10%;
+    height: 350px;
+    width: 500px;
+}
+
+.certificate_imgs{
+    height: 90%;
+}
